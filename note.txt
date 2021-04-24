@@ -1,2 +1,4 @@
 add a new file called note.txt
 committed the change to local repo
+
+On winwows Control +S
